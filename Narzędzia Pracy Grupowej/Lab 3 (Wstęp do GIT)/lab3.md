@@ -124,7 +124,7 @@ Po wykonaniu poprzedniego zadania możemy wrócić do pracy z repozytorium pierw
 	1. `git status`
 	1. `git add README.md`
 	1. `git commit -m 'twoja_wiadomość'`
-3. W kolejnym kroku spróbuj synchronizować repozytorium lokalne ze zdalnym przy użyciu polecenia: `git push`. Po jej wykonaniu powinien pojawić się komunikat:
+3. W kolejnym kroku spróbuj synchronizować repozytorium lokalne ze zdalnym przy użyciu polecenia: `git pull`. Po jej wykonaniu powinien pojawić się komunikat:
 ```
 Auto-merging README.md
 CONFLICT (content): Merge conflict in README.md
